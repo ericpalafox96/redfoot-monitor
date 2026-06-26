@@ -70,6 +70,7 @@ String buildDashboard() {
   html += "</style>";
 
   html += "</head><body>";
+  html += "<meta charset='UTF-8'>";
   html += "<h1>🐢 Rafa's Redfoot Monitor</h1>";
 
   html += "<div class='card'>";
