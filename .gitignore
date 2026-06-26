@@ -1,0 +1,19 @@
+# Wi-Fi credentials
+config.h
+
+# Arduino temporary files
+*.tmp
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Build artifacts
+build/
